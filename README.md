@@ -23,7 +23,7 @@ TODO: Add actual dates
 
 # Want to help?
 
-Interesting in helping out?  Below are some areas we have identified, but we encourage pull requests on this repo if you have another idea.  If you want to discuss, reach out to [Eric Peter (eric@ericpeter.me)](mailto:eric@ericpeter.me).
+Interesting in helping out?  Below are some areas we have identified, but we encourage pull requests on this repo if you have another idea.  If you want to discuss, reach out to [Eric Peter (eric@ericpeter.me)](mailto:eric@ericpeter.me) or on [MLOps Slack](https://go.mlops.community/slack) at @Eric Peter.
 ## Minutes of effort
 - Share the survey link to your network (once published)
 - Submit a PR to add something that is missing or correct an error
