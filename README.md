@@ -7,6 +7,21 @@ The anonymized responses (e.g., identifying information removed) will be made av
 
 This document provides an outline of the topics we want to understand from our community.  It is intended to spark discussion and drive alignment on set of topics and learning goals within each topic.
 
+# Supporters and contributors
+Below are the folks who are contributing and/or supportive of this effort.  Please feel encouraged to open a [PR](https://github.com/mlopscommunity/community-survey/pulls) with your name if you are supportive of the survey or want to contribute!
+
+| Name                    | Contact Info            |
+| ----------------------- | ----------------------- |
+| Eric Peter              | eric@ericpeter.com      |
+| *Add your name here*    |                         |
+
+<!-- 
+Copy this row to add yourself
+
+| Name                    | Contact                 |
+
+-->
+
 # Timeline
 
 TODO: Add actual dates
