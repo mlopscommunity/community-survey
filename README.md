@@ -52,7 +52,8 @@ Interesting in helping out?  Below are some areas we have identified, but we enc
 
 ## Days of effort
 - Participation incentives: define and curate incentives that will be raffled off in order to encourage participation
-- Conduct analysis once responses are collected (looking at you data scientists ;-)
+- Conduct data analysis once responses are collected (looking at you data scientists ;-)
+- Write the report/synthesis of the results as a blog post, or ...
 
 ## Monetary assistance
 - Pay for a license for a survey tool with maxDiff question types + advanced piping and branching logic (Qualtrics, etc)
