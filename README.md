@@ -123,10 +123,17 @@ Understand the broad strokes of the types and details of the use cases overall. 
 - Analytical (batch/offline) vs API-based (real time/online)
 - Business use cases (pricing, recommendations, fraud, etc)
 - Types of models (Transformers, XGBoost, etc)
+- Types of data (tabular, unstructured text, images, video, time-series, etc)
 - How model predictions are accessed by the end-user (within a report, BI tool, application, etc)
 - Approach to releasing models and features (CI/CD, manual releases, etc)
 - Feature freshness (milliseconds/realtime, hours, days, weeks, etc)
 - TODO: Add others of interest
+
+Understand the future view of these use cases - what will this look like in 3 years from now?
+
+Other topics of interest
+- Models that do / don't make it to production & why
+- Which segments of the use cases are hardest to implement and why?
 
 TODO: Significant effort is required here to ensure these responses are MECE (mutually exclusive and collectively exhaustive)
 
