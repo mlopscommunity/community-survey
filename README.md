@@ -62,7 +62,7 @@ Interesting in helping out?  Below are some areas we have identified, but we enc
 
 # Survey Topics
 
-Below is the proposed list of survey topics and learning goals for each.
+Below is the proposed list of survey topics and learning goals for each.  The survey will be max 15 minutes in length (ideally shorter), so the topics below will be prioritized for inclusion.
 
 ## Identify the personas within our community 
 
