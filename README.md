@@ -159,6 +159,15 @@ TODO: Flesh out this list of topics
 - Challenges faced and severity of each (TODO: need a good list here)
 - Differences between the training and production enviroments (different code, etc) 
 
+Challenges
+- validate data is the same between train & prod
+- validate feature logic is the same
+- manage dependencies in code (libraries)
+- mange depenednceis between models or features version
+- reprodcuability
+- monitor metrics
+- speed of deployment
+
 ML Lifecycle stages
 TODO: Improve this draft
 - Requirement definition
