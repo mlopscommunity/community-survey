@@ -15,6 +15,7 @@ Below are the folks who are contributing and/or supportive of this effort.  Plea
 | Eric Peter              | eric@ericpeter.com       |
 | Demetrios Brinkmann     | demetrios@mlops.community|
 | Gonçalo Ribeiro         | g@ydata.ai               |
+| Jacopo Tagliabue        | jacopo.tagliabue@nyu.edu |
 | *Add your name here*    |                          |
 
 <!-- 
