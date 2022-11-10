@@ -10,14 +10,15 @@ This document provides an outline of the topics we want to understand from our c
 # Supporters and contributors
 Below are the folks who are contributing and/or supportive of this effort.  Please feel encouraged to open a [PR](https://github.com/mlopscommunity/community-survey/pulls) with your name if you are supportive of the survey or want to contribute!
 
-| Name                    | Contact Info             |
-| ----------------------- | -----------------------  |
-| Eric Peter              | eric@ericpeter.com       |
-| Demetrios Brinkmann     | demetrios@mlops.community|
-| Gonçalo Ribeiro         | g@ydata.ai               |
-| Jacopo Tagliabue        | jacopo.tagliabue@nyu.edu |
+| Name                 | Contact Info                   |
+|----------------------|--------------------------------|
+| Eric Peter           | eric@ericpeter.com             |
+| Demetrios Brinkmann  | demetrios@mlops.community      |
+| Gonçalo Ribeiro      | g@ydata.ai                     |
+| Jacopo Tagliabue     | jacopo.tagliabue@nyu.edu       |
 | Duarte Carmo            | me@duarteocarmo.com      | 
-| *Add your name here*    |                          |
+| Ben Wilson           | benjamin.wilson@databricks.com |
+| *Add your name here* |                                |
 
 <!-- 
 Copy this row to add yourself
@@ -118,6 +119,25 @@ Understand the data infra & tools
 TODO: Flesh out list of data sources (REST API, production DBs, data lakes, etc)
 TODO: Flesh out list of data tools (Spark, BigQuery, etc)
 
+## ML utilization buy-in
+Understand the business-related struggles of utilizing ML / DS solutions
+- Process of project proposal
+- Difficulties in navigating buy-in with stakeholders
+- Approval and auditing processes for project work
+
+## Project research
+Understand where and how practitioners discover tools, methods, and examples
+- Sources of knowledge
+- References and examples to learn from
+- Ideation validation processes (where and how are experiments conducted)
+- Testing and vetting process (peer review, demo, etc.)
+
+## SPIKE process
+Tools and methods used in validating proposed architectures and approaches
+- Tools and frameworks used
+- Process of running experimental validation of ideas
+- Time boxing and restriction of scope creep
+
 ## ML use cases
 
 ### Overview
@@ -159,14 +179,14 @@ TODO: Flesh out this list of topics
 - Size of training data (GB, PB, etc)
 - Volume of predictions
 - Challenges faced and severity of each (TODO: need a good list here)
-- Differences between the training and production enviroments (different code, etc) 
+- Differences between the training and production environments (different code, etc) 
 
 Challenges
 - validate data is the same between train & prod
 - validate feature logic is the same
 - manage dependencies in code (libraries)
-- mange depenednceis between models or features version
-- reprodcuability
+- mange dependencies between models or features version
+- reproducibility
 - monitor metrics
 - speed of deployment
 
