@@ -18,6 +18,7 @@ Below are the folks who are contributing and/or supportive of this effort.  Plea
 | Jacopo Tagliabue     | jacopo.tagliabue@nyu.edu       |
 | Duarte Carmo            | me@duarteocarmo.com      | 
 | Ben Wilson           | benjamin.wilson@databricks.com |
+| Han lee              | lee.hanchung@gmail.com         |
 | *Add your name here* |                                |
 
 <!-- 
