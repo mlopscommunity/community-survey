@@ -46,7 +46,12 @@ We are working backwards from an April 2023 release date for the report.  We are
 - January 16 - 20: Live trials of survey with ~10 people to confirm length, identify bugs / unclear wording
 - January 23 - 27: Finalize programming
 - January 27 - February 10: Buffer for delays ;-)
-- February 13: Survey go-live
+- February 13: Survey go-live (tbd plan for distribution)
+- March 3: Survey closed 
+- March 17: First draft of survey analysis (e.g., annual report / blog post)
+- March 17 - April 7: Refine survey analysis
+- April 7 - 21: Buffer for delays ;-)
+- April 21: Public release
 
 # Want to help?
 
