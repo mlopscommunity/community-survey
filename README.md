@@ -19,6 +19,7 @@ Below are the folks who are contributing and/or supportive of this effort.  Plea
 | Duarte Carmo            | me@duarteocarmo.com      | 
 | Ben Wilson           | benjamin.wilson@databricks.com |
 | Han lee              | lee.hanchung@gmail.com         |
+| Skylar Payne         | skylar@healthrhythms.com       |
 | *Add your name here* |                                |
 
 <!-- 
