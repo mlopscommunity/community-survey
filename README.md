@@ -16,10 +16,11 @@ Below are the folks who are contributing and/or supportive of this effort.  Plea
 | Demetrios Brinkmann  | demetrios@mlops.community      |
 | Gonçalo Ribeiro      | g@ydata.ai                     |
 | Jacopo Tagliabue     | jacopo.tagliabue@nyu.edu       |
-| Duarte Carmo            | me@duarteocarmo.com      | 
+| Duarte Carmo         | me@duarteocarmo.com            | 
 | Ben Wilson           | benjamin.wilson@databricks.com |
 | Han lee              | lee.hanchung@gmail.com         |
 | Skylar Payne         | skylar@healthrhythms.com       |
+| Niall Murphy         | niallm@gmail.com               |
 | *Add your name here* |                                |
 
 <!-- 
