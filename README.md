@@ -22,6 +22,7 @@ Below are the folks who are contributing and/or supportive of this effort.  Plea
 | Skylar Payne         | skylar@healthrhythms.com       |
 | Niall Murphy         | niallm@gmail.com               |
 | Jeffrey Luppes       | jeffluppes@gmail.com           |
+| Andreea Munteanu     | andreeamihaelamunteanu@gmail.com|
 | *Add your name here* |                                |
 
 <!-- 
