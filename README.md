@@ -21,7 +21,7 @@ Below are the folks who are contributing and/or supportive of this effort.  Plea
 | Han lee              | lee.hanchung@gmail.com         |
 | Skylar Payne         | skylar@healthrhythms.com       |
 | Niall Murphy         | niallm@gmail.com               |
-| *Add your name here* |                                |
+| Andreea Munteanu     | andreeamihaelamunteanu@gmail.com|
 
 <!-- 
 Copy this row to add yourself
