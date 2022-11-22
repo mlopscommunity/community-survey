@@ -8,7 +8,7 @@ This document provides an outline of the topics we want to understand from our c
 # Objectives & goals
 
 Specifically, our goals are:
-* Develop a ~15 minute survey that provides a neutral, vendor-agnostic view of how practitioners apply data science
+* Develop a ~10 minute survey that provides a neutral, vendor-agnostic view of _who_ is in our community and _why and how_ MLOps is applied.
 * Publish an annual report on the `State of Data Science` based on the survey results
 * Survey 1,000 data science practitioners who are representative of the broader community (per year)
 * Provide open-source access to the (anonymized) data
