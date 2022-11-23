@@ -28,6 +28,7 @@ Below are the folks who are contributing and/or supportive of this effort.  Plea
 | Niall Murphy         | niallm@gmail.com               |
 | Jeffrey Luppes       | jeffluppes@gmail.com           |
 | Andreea Munteanu     | andreeamihaelamunteanu@gmail.com|
+| Laszlo Sragner       | laszlo@hypergolic.co.uk        |
 | *Add your name here* |                                |
 
 <!-- 
