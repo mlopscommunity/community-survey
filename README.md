@@ -3,10 +3,15 @@
 
 Our goal is to create a survey that helps us, data science & MLOps practitioners, learn more about our community and (in the future) track how our community changes year-over-year.  Said differently - this is a survey for the community, by the community.  We designed this survey to gain an accurate understanding of we, the professionals designing, building and deploying **production** ML systems, individually and collectively are, the types of data and models we implement, the tools we use, and the challenges we face.  Specifically, this is NOT a vendor-led survey that pushes forward a specific perspective that advantages a vendor or group of vendors.
 
-The anonymized responses (e.g., identifying information removed) will be made available as part of this repo.
-
 This document provides an outline of the topics we want to understand from our community.  It is intended to spark discussion and drive alignment on set of topics and learning goals within each topic.
 
+# Objectives & goals
+
+Specifically, our goals are:
+* Develop a ~10 minute survey that provides a neutral, vendor-agnostic view of _who_ is in our community and _why and how_ MLOps is applied.
+* Publish an annual report on the `State of MLOps` based on the survey results
+* Survey 1,000 data science practitioners who are representative of the broader community (per year)
+* Provide open-source access to the (anonymized) data
 # Supporters and contributors
 Below are the folks who are contributing and/or supportive of this effort.  Please feel encouraged to open a [PR](https://github.com/mlopscommunity/community-survey/pulls) with your name if you are supportive of the survey or want to contribute!
 
@@ -34,17 +39,24 @@ Copy this row to add yourself
 
 # Timeline
 
-TODO: Add actual dates
+We are working backwards from an April 2023 release date for the report.  We are hopeful that our proposed KubeCon talk on this survey will be accepted.
 
-- Date 0: Engage with various community members to evangelize idea, identify contributors, get feedback, etc
-- Date 1: Align on the topics & learning goals
-- Date 2: Develop a core group of contributors
-- Date 3: Survey draft written
-- Date 4: Survey text finalized
-- Date 5: Survey launched
-- Date 6: Survey closed
-- Date 7: Survey raw data available
-- Date 8: Synthesis available
+- November 7 - 18: Engage with various community members to evangelize idea, identify contributors, get feedback, etc
+- November 22: Finalized list of topics & learning goals
+- December 9: First draft of survey text written
+- December 10 - 22: Collect feedback on the draft survey text
+- December 23 - January 5: Holiday break
+- January 13: Survey release candidate #1 available as a web link
+- January 13: Finalize list of incentives & distribution plan
+- January 16 - 20: Live trials of survey with ~10 people to confirm length, identify bugs / unclear wording
+- January 23 - 27: Finalize programming
+- January 27 - February 10: Buffer for delays ;-)
+- February 13: Survey go-live (tbd plan for distribution)
+- March 3: Survey closed 
+- March 17: First draft of survey analysis (e.g., annual report / blog post)
+- March 17 - April 7: Refine survey analysis
+- April 7 - 21: Buffer for delays ;-)
+- April 21: Public release
 
 # Want to help?
 
