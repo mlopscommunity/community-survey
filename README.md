@@ -29,6 +29,7 @@ Below are the folks who are contributing and/or supportive of this effort.  Plea
 | Jeffrey Luppes       | jeffluppes@gmail.com           |
 | Andreea Munteanu     | andreeamihaelamunteanu@gmail.com|
 | Laszlo Sragner       | laszlo@hypergolic.co.uk        |
+| Elena Samuylova      | elena.samuylova@evidentlyai.com|
 | *Add your name here* |                                |
 
 <!-- 
