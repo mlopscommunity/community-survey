@@ -2,6 +2,8 @@
 
 # KEPT FOR HISTORICAL PURPOSES - NOT CURRENT
 
+This is the original list that was used as fodder for what we could ask.  
+
 ## Identify the personas within our community 
 
 Beyond job title, who are we?  What skills do we have?  What responsibilities do we own?  What are our attitudes and perceptions towards/of MLOps?  What types of organizations do we work for?  What team structure(s) are we a part of?
