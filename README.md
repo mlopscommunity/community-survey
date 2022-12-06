@@ -81,3 +81,7 @@ Interesting in helping out?  Below are some areas we have identified, but we enc
 ## Monetary assistance
 - Pay for a license for a survey tool with maxDiff question types + advanced piping and branching logic (Qualtrics, etc)
 - Donate a participation incentive 
+
+# Survey Topics
+
+Survey topics branched in `survey_goals_and_questions.md`
