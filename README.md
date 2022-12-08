@@ -30,6 +30,7 @@ Below are the folks who are contributing and/or supportive of this effort.  Plea
 | Andreea Munteanu     | andreeamihaelamunteanu@gmail.com|
 | Laszlo Sragner       | laszlo@hypergolic.co.uk        |
 | Elena Samuylova      | elena.samuylova@evidentlyai.com|
+| Ian Schweer          | ischweer@riotgames.com         |
 | *Add your name here* |                                |
 
 <!-- 
