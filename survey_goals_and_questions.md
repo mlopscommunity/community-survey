@@ -73,6 +73,70 @@ Each topic has:
 # [4 mins] ML last use case
 
 NOT FINISHED - this section asks about "the last use case where MLOps was involved" with the intent of building a baseline of how MLOps actually gets applied
+
+## Use case overview
+
+### Questions
+* Who is the end user?
+
+* *What data does the model(s) use as features (e.g., inputs)?
+    * User behavior within an application
+    * 
+
+## Prediction display 
+### What do we learn / get by asking this?
+* Help us align the landscape of MLOps tools & processes to the requirements of real world ML deployments
+
+### Questions
+
+1) Who is the end user of the prediction(s)?
+    * Internal user
+    * Customer
+    * Other [please specify]
+
+
+1) Where are the prediction(s) displayed to the end user?
+    * Dashboard (Tableu, etc)
+    * Application (web)
+    * Application (mobile)
+    * Database table (SQL, etc)
+    * Other [please specify]
+
+2) How often does the model's input data change? 
+
+| | % of features |
+| ----- | ----- | 
+| Milliseconds | __ |
+| Seconds | __ |
+| Minutes | __ |
+| Hours | __ |
+| Days | __ | 
+| Weeks | __ |
+| Months | __ | 
+
+
+3) How often are the model's predictions recalculated?
+
+| | Current state | Ideal state (ignoring any current constraints)|
+| ----- | ----- | ----- | 
+| Milliseconds | [  ] | [ x ] |
+| Seconds | [  ] | [  ] |
+| Minutes | [ x ] | [  ] |
+| Hours | [  ] | [  ] |
+| Days | [  ] | [  ] |
+| Weeks | [  ] | [  ] |
+| Months | [  ] | [  ] |
+
+- [ ] Milliseconds
+- [ ] Seconds 
+- [ ] Minutes
+- [ ] Hours
+- [ ] Days
+- [ ] Weeks
+- [ ] Months
+
+
+
 ### What do we learn / get by asking this?
 * Who (roles) is involved with each area of responsibility for MLops
 * Length of time for different stages of the process
@@ -93,6 +157,10 @@ NOT FINISHED - this section asks about "the last use case where MLOps was involv
 - Approach to releasing models and features (CI/CD, manual releases, etc)
 - Feature freshness (milliseconds/realtime, hours, days, weeks, etc)
 - TODO: Add others of interest
+
+* Use of source control
+
+* Data sources
 
 # [1 mins] Make it fun
 
