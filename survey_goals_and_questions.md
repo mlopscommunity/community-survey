@@ -10,7 +10,7 @@ Each topic has:
 * Estimated timing
 * What we want to learn
 * Outcomes we hope to achieve by learning
-* Rough draft list of questions
+* List of questions to be asked
 
 # Who we are: 5 mins
 ## [2 mins] Basic demographics of person & company 
