@@ -72,38 +72,54 @@ Each topic has:
 * How (un)important is each in order to be successful in __your overall team's success__?
 # [4 mins] ML last use case
 
-NOT FINISHED - this section asks about "the last use case where MLOps was involved" with the intent of building a baseline of how MLOps actually gets applied
+This section asks about "the last use case where MLOps was involved" with the intent of building a baseline of how MLOps actually gets applied.
 
-## Use case overview
-
-### Questions
-* Who is the end user?
-
-* *What data does the model(s) use as features (e.g., inputs)?
-    * User behavior within an application
-    * 
-
-## Prediction display 
 ### What do we learn / get by asking this?
-* Help us align the landscape of MLOps tools & processes to the requirements of real world ML deployments
+* Help understand the types of real world ML deployments where MLOps is applied
 
-### Questions
+### Draft questions
+* What is the business use case?
+* Who (roles) is involved with each part of the process
+* Length of time for different stages of the process
+* Which tools are used?
+* What data sources are using in training and/or production environments?
+* What is the ML application?
+    * Regression
+	* Classification
+	* Probabilistic classification
+	* Retrieval
+	* Ranking/re-ranking
+* What types of data?
+    * tabular
+    * images
+    * text
+    * video
+    * audio
+    * time series
+    * OR multi-modal
+* What is your model's architecture?
+    * boosted (XGboost)
+    * random forest / ensemble model
+    * linear model, regression, elastic net
+    * encoder<>decoder or recurrent model
+    * convolution model
+    * transformer model
+    * graph type of model
+* Approach to releasing models and features (CI/CD, manual releases, etc)
 
-1) Who is the end user of the prediction(s)?
+* Who is the end user of the prediction(s)?
     * Internal user
     * Customer
     * Other [please specify]
 
-
-1) Where are the prediction(s) displayed to the end user?
-    * Dashboard (Tableu, etc)
+* Where are the prediction(s) displayed to the end user?
+    * Dashboard or report (Tableu, etc)
     * Application (web)
     * Application (mobile)
     * Database table (SQL, etc)
     * Other [please specify]
 
-2) How often does the model's input data change? 
-
+* How often does the model's input data change? 
 | | % of features |
 | ----- | ----- | 
 | Milliseconds | __ |
@@ -114,9 +130,7 @@ NOT FINISHED - this section asks about "the last use case where MLOps was involv
 | Weeks | __ |
 | Months | __ | 
 
-
-3) How often are the model's predictions recalculated?
-
+* How often are the model's predictions recalculated?
 | | Current state | Ideal state (ignoring any current constraints)|
 | ----- | ----- | ----- | 
 | Milliseconds | [  ] | [ x ] |
@@ -127,40 +141,9 @@ NOT FINISHED - this section asks about "the last use case where MLOps was involv
 | Weeks | [  ] | [  ] |
 | Months | [  ] | [  ] |
 
-- [ ] Milliseconds
-- [ ] Seconds 
-- [ ] Minutes
-- [ ] Hours
-- [ ] Days
-- [ ] Weeks
-- [ ] Months
-
-
-
-### What do we learn / get by asking this?
-* Who (roles) is involved with each area of responsibility for MLops
-* Length of time for different stages of the process
-* Understand which tools are actually used
-* Understand which types of data are actually used
-* types of models
-* where predictions are exposed to users?
-
-### Questions
-
-* What is custom built?
-
-- Analytical (batch/offline) vs API-based (real time/online)
-- Business use cases (pricing, recommendations, fraud, etc)
-- Types of models (Transformers, XGBoost, etc)
-- Types of data (tabular, unstructured text, images, video, time-series, etc)
-- How model predictions are accessed by the end-user (within a report, BI tool, application, etc)
-- Approach to releasing models and features (CI/CD, manual releases, etc)
-- Feature freshness (milliseconds/realtime, hours, days, weeks, etc)
-- TODO: Add others of interest
-
-* Use of source control
-
-* Data sources
+* Would you consider this use case?
+    * Batch/offline
+    * Real time/online
 
 # [1 mins] Make it fun
 
@@ -168,10 +151,10 @@ NOT FINISHED - this section asks about "the last use case where MLOps was involv
 * Quotes to make our lives (and the report) more fun :-)
 
 ### Questions
-* Open ended questions such as
-    * Top frustration
-    * Favorite thing
-    * Piece of advice to others
-    * what else??
+* User choose of open ended questions:
+    * What is your top frustration with MLOps?  Why?
+    * What is your favorite MLOps tool?  Why?
+    * What is one piece of advice you'd offer to others applying MLOps?
+    * [OTHERS?]
 
 
