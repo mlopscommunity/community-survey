@@ -40,7 +40,14 @@ Each topic has:
     * Within central services
     * Part of a business unit
     * other??  how do we make this question relevant to startup & big E?
-* Which other roles do you collaborate with?
+* Which other roles do you collaborate with on MLOps?
+    * ML Engineer
+    * Data Scientist
+    * Software Engineer
+    * Data Engineer
+    * SRE/DevOps
+    * Researcher
+    * Data Analyst
 * Where do those people sit?
     * Your team
     * Other teams
@@ -80,6 +87,11 @@ This section asks about "the last use case where MLOps was involved" with the in
 ### Draft questions
 * What is the business use case?
 * Who (roles) is involved with each part of the process
+    1) Define the use case & business requirements
+    2) Experiment with models and features
+    3) Deployment of models and features to production
+    4) Post deployment monitoring
+    [HOW TO MAKE THIS NOT LINEAR?]
 * Length of time for different stages of the process
 * Which tools are used?
 * What data sources are using in training and/or production environments?
@@ -106,19 +118,16 @@ This section asks about "the last use case where MLOps was involved" with the in
     * transformer model
     * graph type of model
 * Approach to releasing models and features (CI/CD, manual releases, etc)
-
 * Who is the end user of the prediction(s)?
     * Internal user
     * Customer
     * Other [please specify]
-
 * Where are the prediction(s) displayed to the end user?
     * Dashboard or report (Tableu, etc)
     * Application (web)
     * Application (mobile)
     * Database table (SQL, etc)
     * Other [please specify]
-
 * How often does the model's input data change? 
 | | % of features |
 | ----- | ----- | 
